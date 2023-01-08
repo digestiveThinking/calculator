@@ -1,0 +1,23 @@
+
+Display{
+    background-color: #575157;
+    color: #EEEDEE;
+    font-size: 60px;
+    min-width: 234px;
+    font-weight: 100;
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 4px;
+    qproperty-alignment: 'AlignVCenter | AlignRight';
+    margin: 0;
+}
+
+CalcButton {
+    background-color: #7E7A81;
+    color: #EEEDEE;
+    font-size: 24px;
+    border: none;
+    border-right: 1px solid #575157;
+    border-bottom: 1px solid #575151;
+    border-radius: 0px;
+    margin: 0px;
+}
